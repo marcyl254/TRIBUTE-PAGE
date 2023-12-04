@@ -232,7 +232,10 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+### Collaborative Effort:
+
+- Contribute to the tribute page by adding content to the `tribute.html` file.
+
 
 Feel free to check the [issues page](../../issues/).
 
