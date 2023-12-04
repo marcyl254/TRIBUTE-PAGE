@@ -106,6 +106,7 @@ Tribute page is a project dedicated to honor the life and legacy of the late Mat
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+![ScreenShot Tool -20231204122036](https://github.com/marcyl254/TRIBUTE-PAGE/assets/150244592/1686664f-b568-450b-91f6-6383db27247a)
 
 https://marcyl254.github.io/TRIBUTE-PAGE/
 
@@ -203,9 +204,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@marcyl254](https://github.com/@marcyl254)
+- GitHub:@marcyl254(https://github.com/marcyl254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn:cynthia masila(https://www.linkedin.com/in/cynthia-masila-656a74263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 👤 **Author2**
 
@@ -221,9 +222,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **Adding icons**
-- [ ] ****
-- [ ] ****
+-  Additional external links with more information 
+- Styling 
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,25 +251,11 @@ If you like this project drop your comment on the contact form.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank all for the support and your sincere commentson the page.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
