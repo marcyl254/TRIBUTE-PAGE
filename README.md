@@ -110,9 +110,7 @@ Tribute page is a project dedicated to honor the life and legacy of the late Mat
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-
+https://marcyl254.github.io/TRIBUTE-PAGE/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
