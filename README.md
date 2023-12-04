@@ -125,7 +125,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
+Install Live Server 5 extension
 <!--
 Example command:
 
@@ -138,7 +138,7 @@ Example command:
 
 Clone this repository to your desired folder:
 cd my-folder
-git clone 
+git clone https://github.com/marcyl254/TRIBUTE-PAGE.git
 <!--
 Example commands:
 
@@ -154,7 +154,7 @@ Install this project with:
 
 <!--
 Example command:
-
+Not for installing
 ```sh
   cd my-project
   gem install
