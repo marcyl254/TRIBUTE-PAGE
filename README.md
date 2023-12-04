@@ -210,7 +210,7 @@ Example:
 
 👤 **Author2**
 
-- GitHub: [@Brian-Otieno254](https://github.com/@Brian-Otieno254)
+- GitHub: [@Brian-Otieno254]( https://github.com/Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
