@@ -67,14 +67,11 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [TRIBUTE PAGE] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 Tribute page is a project dedicated to honor the life and legacy of the late Matthew Perry.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
   <summary>Client</summary>
   <ul>
@@ -151,10 +148,10 @@ Example commands:
 ### Install
 
 Install this project with:
-
+Not for installing
 <!--
 Example command:
-Not for installing
+
 ```sh
   cd my-project
   gem install
@@ -225,9 +222,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Adding icons**
+- [ ] ****
+- [ ] ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
