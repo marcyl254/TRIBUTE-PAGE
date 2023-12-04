@@ -184,8 +184,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
+https://marcyl254.github.io/TRIBUTE-PAGE/
 <!--
 Example:
 
@@ -204,13 +203,13 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@marcyl254](https://github.com/@marcyl254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Brian-Otieno254](https://github.com/@Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -232,8 +231,6 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-### Collaborative Effort:
-
 - Contribute to the tribute page by adding content to the `tribute.html` file.
 
 
@@ -245,9 +242,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project drop your comment on the contact form.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +252,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all for the support and your sincere commentson the page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
