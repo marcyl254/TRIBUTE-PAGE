@@ -204,7 +204,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub:@marcyl254(https://github.com/marcyl254)
+- GitHub:@marcyl254 (https://github.com/marcyl254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn:cynthia masila(https://www.linkedin.com/in/cynthia-masila-656a74263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
