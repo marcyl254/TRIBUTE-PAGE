@@ -137,7 +137,8 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
+cd my-folder
+git clone 
 <!--
 Example commands:
 
