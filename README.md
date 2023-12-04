@@ -212,8 +212,7 @@ Example:
 
 - GitHub: [@Brian-Otieno254]( https://github.com/Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- LinkedIn: https://www.linkedin.com/in/brian-otieno-4679272a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTyxAI7hHTB%2BXK0paMNIJgQ%3D%3D
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
